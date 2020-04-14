@@ -9,3 +9,10 @@ There are some empyt folders in maven project.
 They would be ignored by git.
 
 Please add those folders manually.
+```
+cd some_java_notes
+mkdir src src/test src/test/resources
+mkdir src/main/resources
+```
+
+

@@ -41,8 +41,6 @@ public class Generic_02 {
 		
 		logger.error(list3);
 		logger.error(s3);
-		
-
 
 	}
 
