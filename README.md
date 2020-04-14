@@ -2,8 +2,6 @@
 
 There are some empyt folders in maven project.
 
-"src/test/java"
-
 "src/test/resources"
 
 "src/main/resources"
