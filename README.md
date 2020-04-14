@@ -10,6 +10,8 @@ There are some empyt folders in maven project.
 
 They would be ignored by git.
 
+It might causes some errors.
+
 Please add those folders manually.
 ```
 cd some_java_notes
