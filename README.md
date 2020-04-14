@@ -15,7 +15,7 @@ It might causes some errors.
 Please add those folders manually.
 ```
 cd some_java_notes
-mkdir src src/test src/test/resources
+mkdir src/test src/test/resources
 mkdir src/main/resources
 ```
 
