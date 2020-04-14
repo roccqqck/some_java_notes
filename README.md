@@ -1,5 +1,7 @@
 # some_java_notes
 
+## openjdk=8 maven=3.6
+
 There are some empyt folders in maven project.
 
 "src/test/resources"

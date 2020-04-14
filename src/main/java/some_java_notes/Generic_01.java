@@ -24,16 +24,15 @@ class YourClass<Type1, Type2> {
 public class Generic_01 {
 
 	public static void main(String[] args) {
-		
+
 		// call log4j to replace print
 		Logger logger = LogManager.getLogger("Generic_02");
-		//	
-		
+		//
+
 		YourClass<String, Integer> leBobs = new YourClass<String, Integer>();
 		// in this case, <> is the same as putting <String, Integer>
-        
-		
-        leBobs.Abc("str1", 2);
+
+		leBobs.Abc("str1", 2);
 		String a = leBobs.getBob1();
 		int b = leBobs.getBob2();
 		logger.error("bob1 is '" + a + "', and bob2 is '" + b + "'.");
