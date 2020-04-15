@@ -1,8 +1,8 @@
 # some_java_notes
 
-## openjdk=8 maven=3.6
+### openjdk=8 maven=3.6
 
-There are some empyt folders in maven project.
+There are some empty folders in maven project.
 
 "src/test/resources"
 
@@ -10,7 +10,7 @@ There are some empyt folders in maven project.
 
 They would be ignored by git.
 
-It might causes some errors.
+It might cause some errors.
 
 Please add those folders manually.
 ```
