@@ -9,6 +9,11 @@ public class Hashmap01 {
 
 	public static void main(String[] args) {
 		
+		////////////////
+		// java map is similar to python dictionary
+		////////////////
+		
+		
 		System.out.println("HashMap");
 
 		HashMap<Integer, String> hashMap = new HashMap<Integer, String>();
